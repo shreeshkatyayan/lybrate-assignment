@@ -4,7 +4,7 @@ window.productsData = [
 {
 	"product_id"	: "prod121",
 	"name"			: "Beer Shampoo",
-	"imagePath"		: "img/beer_shampoo.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 350,
 	"shippingCost"	: 0,
 	"rating"		: 70,
@@ -14,7 +14,7 @@ window.productsData = [
 {
 	"product_id"	: "prod122",
 	"name"			: "BSA Mountain Bike",
-	"imagePath"		: "img/mountain_bike.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 98,
 	"shippingCost"	: 0,
 	"rating"		: 30,
@@ -24,7 +24,7 @@ window.productsData = [
 {
 	"product_id"	: "prod123",
 	"name"			: "Mother's Day Coffee Mug",
-	"imagePath"		: "img/designer_mug.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 350,
 	"shippingCost"	: 0,
 	"rating"		: 70,
@@ -34,7 +34,7 @@ window.productsData = [
 {
 	"product_id"	: "prod124",
 	"name"			: "WD My Passport Ultra 2TB",
-	"imagePath"		: "img/wd_passport.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 7899,
 	"shippingCost"	: 120,
 	"rating"		: 96,
@@ -44,7 +44,7 @@ window.productsData = [
 {
 	"product_id"	: "prod125",
 	"name"			: "Denim Jeans",
-	"imagePath"		: "img/denim_jeans.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 3500,
 	"shippingCost"	: 80,
 	"rating"		: 70,
@@ -54,7 +54,7 @@ window.productsData = [
 {
 	"product_id"	: "prod126",
 	"name"			: "Reebok Running Shoes",
-	"imagePath"		: "img/reebok_shoe.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 350,
 	"shippingCost"	: 0,
 	"rating"		: 65,
@@ -64,7 +64,7 @@ window.productsData = [
 {
 	"product_id"	: "prod127",
 	"name"			: "Acer Aspire V3-571",
-	"imagePath"		: "img/acer_laptop.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 34899,
 	"shippingCost"	: 500,
 	"rating"		: 84,
@@ -74,7 +74,7 @@ window.productsData = [
 {
 	"product_id"	: "prod128",
 	"name"			: "Apple Iphone 6S",
-	"imagePath"		: "img/iphone.jpg",
+	"imagePath"		: "http://placehold.it/1600x1200?text=1600x1200",
 	"price"			: 350,
 	"shippingCost"	: 0,
 	"rating"		: 76,
